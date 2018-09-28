@@ -1,0 +1,31 @@
+{
+  "name": "small_car_listing_app",
+  "version": "1.0.0",
+  "description": "An application based on the Ethereum Blockchain to exchange (buy/sell) cars",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YacineGACI/simple-car-exchange-on-Ethereum-blockchain.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "car-listing"
+  ],
+  "author": "Yacine GACI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YacineGACI/simple-car-exchange-on-Ethereum-blockchain/issues"
+  },
+  "homepage": "https://github.com/YacineGACI/simple-car-exchange-on-Ethereum-blockchain#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
